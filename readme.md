@@ -30,7 +30,7 @@
 
 # Get started
 
-1. 💻 [Create a new repo using this template](https://github.com/crystal-bit/godot-game-template/generate)
+1. 💻 [Create a new repo using this template](https://github.com/matthewjamesr/godot-game-template/generate)
 2. Clone the new repository locally
 3. Open the project in [Godot](https://godotengine.org/download/) (GDScript)
 4. Done
